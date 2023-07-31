@@ -1,1 +1,1 @@
-# openai-credit-counter
+# OpenAI Credit Counter
