@@ -1,0 +1,13 @@
+{
+    "type": "service_account",
+    "project_id": "hackathon-streamgpt-app",
+    "private_key_id": "f9582f248094af38f9d1973b7297c7f19494dd6a",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCoMlTbtOhlBJSi\nNBiuWaj01PK5G5uTAguMizZPWe4/IbNJESF3cSaPTKu5mwW7iXQ8kC57Apujh13G\nFSxyAna39rvkthL8zyc6qXo2w2fyYKsvUw6ewZ0sRhCMGJVEQOzkxtv9c1Pfu29S\nPuZTOICwUktrT3yOtvC/59YhOaeKUawCB8IA4MMCWkIUN/h/fnPGMLucYqZnjXB7\njrfNywQXkIdF0WLOz4n64q+7r95L33gl+cZ/TPb9sCcg/0cQcX7UIdbOlRoOCqOU\n957N4yjlu1dUWK9aq4eJOnCjSHbtfFjDwHNRhT39VlivNRc+ip4cY98I9i+bVM3a\nOVaYVL+zAgMBAAECggEACT+YC7fecQxX1LUJbmM4hE3frG7O/SRg2JeHCV7BvolV\nDGPh85yUwpuap0s8Fqj8ntMZ9MjN7UEyPNDi1fOgurjZPnHS7w4mjNxozFeuTYhX\nOvQimt288+qrJw9RYqSXSHUbmTIdBVf1fqlxJlfpa5VhPdzr1Z6yWjsE1GR3lYYu\n6dEdycxTwuNvCqkJ3aOD9JljzbR/tXgzYHplREHrnrJRfhlV8S7h56U+WMYfhd5o\nrBBnuxfVcxJcpaOygp2pIuRJH+kilQwodSNSaw7DoXo5df56ljDVPYFgn1maKsIQ\nRdkSxL1RS4uCQBUy9EQZTmiFDvRXEPiS26ct6d4RYQKBgQDSaaoQiEzBqQuBFogo\nOb3xhGXzSWsBWTtIry9JmTdR+b4cMUPK7lTw4LrYQPM2mVkidDtioL2LbD83j12c\nzZQqKv3vscvUd8yu+hiHog1s8RWpq5LeSxaKACRIrq0scgeSGwU6XhtBNYUgR/Yf\nY9SZqj1uiKhxXWdn3E9J3bRzWQKBgQDMozC9HQq69hRHVdPdUvshqau5Ph3vMhMg\nGy/EOyud1yfaEnLD/58BxxloLDCoGIPEbSf4YPbCV9rylLRS41id9pYpl42tQ5WD\nE3wXmVK3P/W+sYAvPag9cpDKYvymcHifytH35DSQFbSQJxCa1HEGdLEIrY5qolF9\n5uxMBbsl6wKBgH4kHHEm1SUwa5Yq5NuAqk90+Q2d0QmQ7gqIA4hS0yhQ2Vjba/Hn\naYKypzDn1ya/TgFqvwNEq/0+mrN7Pjq3wAB7n5qn8zNf0pR/mF8Plo7eBQeftT+Q\nsmVu6lGsbmL7xXAgxMSWEC7KoBGXMoTk+1pYBdYTFTBJN6m7GMmGoRyZAoGAO4Ld\n4rF2dGaqARDZu0ytkd2Y/hctd2l1nGmrm4KlrZJrmYSx8YP+RvMS1XO8drYiY9Zm\nwFnaiSwplVBfnJdXJyEWDGRxpEi6S1M4TFifcIFeQyW1pIdmzO/rYaAl33Vn7vh5\n1YB9NMXLK/zgXFaZxAndjiuC9kncLyQf5f/orB8CgYEAzA3aYOy7BPZVaz54yHW4\nQc0/y5XDSXrHFNUHoS2EAxnlvHF+n2XN/lK0SLwriGBrO6BS1iS3lNPDcPLgt860\nfW/y3ZtvdVlT0iTxLVCmIJZmFds5ELCSsAjNfudTZkrzCZu7cB4hKFLlSSq0x3XH\nHIar83kIQw2xt3VG3Jjb4WA=\n-----END PRIVATE KEY-----\n",
+    "client_email": "gspread-for-hackathon-stream-g@hackathon-streamgpt-app.iam.gserviceaccount.com",
+    "client_id": "111614994550900993399",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/gspread-for-hackathon-stream-g%40hackathon-streamgpt-app.iam.gserviceaccount.com",
+    "universe_domain": "googleapis.com"
+}
